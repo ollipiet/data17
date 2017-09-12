@@ -1,0 +1,9 @@
+name: "Datajournalismin johdatus Uta 2017"
+output_dir: "."
+navbar:
+  title: "Datajournalismi Uta 2017"
+  left:
+    - text: "Harjoitusohjelma ja linkit"
+      href: index.html
+    - text: "Taulukkolaskenta tutotriaali (JPlusPlus)"
+      href: http://tusg.jplusplus.se/?software=Excel for Windows&version=Excel 2016&language=Finnish&locale=Finland (Finnish)&os=Windows
